@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Tryunfo/static/css/main.eed4f444.css",
+    "main.css": "/Tryunfo/static/css/main.34402d11.css",
     "main.js": "/Tryunfo/static/js/main.5c0e3144.js",
     "static/media/logo_tryunfo.png": "/Tryunfo/static/media/logo_tryunfo.44a23133148884206e60.png",
     "index.html": "/Tryunfo/index.html",
-    "main.eed4f444.css.map": "/Tryunfo/static/css/main.eed4f444.css.map",
+    "main.34402d11.css.map": "/Tryunfo/static/css/main.34402d11.css.map",
     "main.5c0e3144.js.map": "/Tryunfo/static/js/main.5c0e3144.js.map"
   },
   "entrypoints": [
-    "static/css/main.eed4f444.css",
+    "static/css/main.34402d11.css",
     "static/js/main.5c0e3144.js"
   ]
 }
